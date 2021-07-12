@@ -1,0 +1,16 @@
+body {
+  font-family: "Times New Roman", sans-serif;
+  font-size: 1.5rem;
+  color: #fff;
+  text-align: center;
+  background: url(../images/coolhusky.jpg);
+}
+.fa-paw {
+  color: #fff;
+}
+.maintenance-body {
+  padding: 6% 15%;
+}
+.maintenance-bigheading {
+  font-size: 2.5rem;
+}
